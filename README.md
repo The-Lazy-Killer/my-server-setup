@@ -34,7 +34,7 @@ sudo apt update -y && sudo apt upgrade -y && sudo reboot -y
 
 Install packages I use
 ```bash
-sudo apt install qemu-guest-agent \
+sudo apt install -y qemu-guest-agent \
                  ufw  
 ```
 
