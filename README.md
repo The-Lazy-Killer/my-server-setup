@@ -8,6 +8,14 @@ Just another server setup stored in Github
 
 ## VMs
 ### Docker Hosts
-### Unifi OS Server
 
 #### Portainer
+
+### Unifi OS Server
+
+Unifi OS server
+
+Current specs:
+* Disk: 20GB
+* RAM: 2GB
+* vCPU: 1s 2c
