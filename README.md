@@ -35,8 +35,7 @@ sudo apt update && sudo apt upgrade && sudo reboot
 Install packages I use
 ```bash
 sudo apt install qemu-guest-agent \
-                 ufw \
-                 
+                 ufw  
 ```
 
 Enable and start qemu-agent
