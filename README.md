@@ -29,7 +29,7 @@ Current specs:
 
 Update repos, upgrade packages and reboot server.
 ```bash
-sudo apt update && sudo apt upgrade && sudo reboot
+sudo apt update -y && sudo apt upgrade -y && sudo reboot -y
 ```
 
 Install packages I use
