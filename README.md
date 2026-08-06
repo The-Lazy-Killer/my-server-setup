@@ -19,9 +19,11 @@ Unifi OS server
 Installation based on: https://help.ui.com/hc/en-us/articles/34210126298775-Self-Hosting-UniFi#h_01K2Q77CWHFK6SRG8RR07SNBKQ
 
 Current specs:
-* Disk: 20GB
+* Disk: 30GB
 * RAM: 2GB
 * vCPU: 1s 2c
+
+UniFi OS Server 5.1.21 requires 15GB of free space. Adjust VM disk space as needed.
 
 Required packages:
 * podman 
@@ -46,6 +48,7 @@ Start installation
 ```bash
 sudo ./f5e2-linux-x64-5.1.21-a400c9c6-8328-4634-b223-ebfcf742720a.21-x64
 ```
+Now follow the installation instructions.
 
 ## Default VM Configurations
 
